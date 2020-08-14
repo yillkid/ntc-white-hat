@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+C4:6E:1F:9D:29:38, 2020-04-13 01:14:16, 2020-04-13 01:14:36,  1, 405, WPA2 WPA, CCMP, PSK, -70,       63,      318,   0.  0.  0.  0,   5, Chika, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+A4:45:19:59:84:A8, 2020-04-13 01:14:17, 2020-04-13 01:14:36, -39,     1630, C4:6E:1F:9D:29:38,Chika
+
