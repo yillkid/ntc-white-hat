@@ -6,7 +6,7 @@
 - index.html
 
 #### 手法:
-- # 後的 URL 都會被執行
+- `#` 後的 URL 都會被執行
 - 程式碼會用 url.match 檢查 http/https，但不是大小寫敏感！
 
 

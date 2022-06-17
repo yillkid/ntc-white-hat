@@ -40,7 +40,7 @@ containerEl.innerHTML += html;
 - 但為什麼 `<script>` 在 innerHTML 中還是無法執行呢？
 - 讀完 [Mozilla 官方文件](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 - 我們知道 `<script>` 在 innerHTML 中是無法執行的，僅此而已
-- 但官方文件也有說，evetn 是可以執行的
+- 但官方文件也有說，evet 是可以執行的
 
 ```
 However, there are ways to execute JavaScript without using <script> elements, so there is still a security risk whenever you use innerHTML to set strings over which you have no control. For example:
