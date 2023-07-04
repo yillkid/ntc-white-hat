@@ -25,6 +25,7 @@ function Post(message) {
 
 #### Get response:
 - 收 response 時，也直接將 data 放置到 innerHTML
+![image](https://github.com/yillkid/ntc-white-hat/assets/185872/0052c5e5-c837-4d4a-bc8b-47c459c72c83)
 
 ```html=
 html += '<b>You</b>';
