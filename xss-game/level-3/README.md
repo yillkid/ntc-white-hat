@@ -20,6 +20,9 @@ https://xss-game.appspot.com/level3/frame#1'onerror="alert('done');"
 
 ## 截圖
 
+#### Code: (page onload)
+![image](https://github.com/yillkid/ntc-white-hat/assets/185872/67b7264a-d69c-4d7b-af1c-ee3d67b1988e)
+
 #### Request:
 ![image info](./00.png)
 
